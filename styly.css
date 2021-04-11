@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(62, 117, 190);
+    text-align: center;
+    color: white;
+    font-size: 4em;
+    padding: 0.75em;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: rgba(207, 31, 31, 0.767);
+    font-size: 1.25em;
+    padding: 0.25em;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#cisla{
+
+}
+#stred{
+    width: 650px;
+}
+#rasa{
+
+}
+#nabozenstvi{
+    
+}
+#strana{
+    width: 350px;
+    float: right;
+}
+#blok{
+    width: 1000px;
+    margin: auto;
+}
