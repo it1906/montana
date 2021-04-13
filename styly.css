@@ -13,11 +13,13 @@ h2{
     background-color: rgba(199, 23, 23, 0.767);
     font-size: 1.25em;
 }
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: rgba(199, 23, 23, 0.767);
+}
 body{
     font-family: 'Roboto', sans-serif;
-}
-#cisla{
-
 }
 #stred{
     width: 650px;
@@ -45,4 +47,22 @@ body{
 #prava-obrazky{
     width: 325px;
     float: right;
+}
+#prvni{
+    width: 650px;
+}
+.leva{
+width: 300x;
+float: left;
+}
+.prava{
+    width: 300px;
+    float: right;
+}
+footer{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(62, 117, 190);
+    text-align: center;
+    color: white;
+    font-size: 1em;
 }
